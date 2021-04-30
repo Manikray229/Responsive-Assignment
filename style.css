@@ -1,0 +1,48 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.logo img{
+    width: 300px;
+}
+
+
+.top-backpack img{
+    width: 430px;
+}
+
+.casual-backpack, .travel-backpack{
+    border: 0;
+}
+.travel-backpack-footer, .casual-backpack-footer{
+    background-color: white;
+    border: 0;
+}
+
+.btn{
+    width: 180px;
+    height: 65px;
+    border-radius: 10px;
+    color: white;
+    background-color: rgb(42 30 89);
+}
+.btn img{
+    width: 30px;
+}
+.title-moon, .price{
+    color: rgb(118 194 126);
+}
+.footer-img img{
+    width: 100%;
+}
+
+.footer-area img{
+    width: 50%;
+    border-radius: 10px; 
+    
+}
+.product-images img{
+    background-color: #f1f1f1;
+}
+
+
+
